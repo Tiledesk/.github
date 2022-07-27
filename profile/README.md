@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/32564846/181367757-77773e70-4e86-4c99-a617-a1a0e504fcd9.png)
 
-# Tiledesk is the <b>open source conversational platform<b> that easily connects humans and chatbots.
+# Tiledesk is the <b>open source conversational platform<b> that easily connects humans and chatbots
 
 Designed to be open source since the beginning, we actively worked on it to create a totally new, <b>first class customer service platform<b> based on instant messaging.
 
@@ -30,7 +30,7 @@ Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It i
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
-Tiledesk <b>main features<b> include:
+# Tiledesk <b>main featuress<b>
 * </b>Live Chat Widget</b> on Web and Mobile
 * </b>Resolution Bot</b> to automate customer support
 * Easy </b>integration with all major AI-platforms</b>, cloud and Open source, from DialogFlow to RASA
