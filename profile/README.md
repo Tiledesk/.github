@@ -52,3 +52,5 @@ Tiledesk </b>main features</b> include:
 * And much more…
 
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
+
+Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
