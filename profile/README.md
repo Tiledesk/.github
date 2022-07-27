@@ -67,4 +67,4 @@ You can just give Tiledesk a try by installing it with our Docker compose deploy
 > 
 > ***Use [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md) guide***
 
-More details here on the On-Premise installation here: https://github.com/Tiledesk/tiledesk-server
+More details here on the On-Premise installation are available here: https://github.com/Tiledesk/tiledesk-server
