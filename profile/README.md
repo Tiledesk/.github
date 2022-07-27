@@ -50,7 +50,7 @@ Tiledesk <b>main features<b> include:
   * Email
 * </b>Integration with the main E-commerce platforms</b>
 * Waiting </b>queues management</b> to manage your SLAs
-* </bSeamless conversation</b> to “jump” between different channels in a transparent way for end customers and agents  
+* </b>Seamless conversation</b> to “jump” between different channels in a transparent way for end customers and agents  
 * </b>Widget theme</b> manager
 * </b>Multi-language</b>
 * </b>Operating hours</b>
