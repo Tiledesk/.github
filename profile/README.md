@@ -24,7 +24,7 @@ Moreover you can deploy entire visual applications inside a conversation. And yo
 
 Tiledesk is <b>multichannel<b> in a totally new way. You can write your chatbot scripts with images, buttons and other cool elements that your channels support. But you will configureyour chatbot replies only once. They will run on every channel, auto-adapting the responses to the target channel whatever it is, Whatsapp, Facebook Messenger, Telegram etc.
 
-If you want to discover more about Tiledesk you can switch to the <b><a href="https://tiledesk.com/?utm_source=github" target="_blank">Tiledesk Website</a></b> or read online documentation on our <b><a href="https://developer.tiledesk.com/?utm_source=github" target="_blank"Developer Hub</a><b>.
+If you want to discover more about Tiledesk you can switch to the <b><a href="https://tiledesk.com/?utm_source=github" target="_blank">Tiledesk Website</a></b> or read online documentation on our <b><a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">Developer Hub</a>
 
 Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It is fast, lightweight and reliable.
 
