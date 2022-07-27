@@ -62,3 +62,9 @@ Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (
 
 # How to Install Tiledesk
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
+
+> ***🚀 Do you want to install Tiledesk on your server with just one click?***
+> 
+> ***Use [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md) guide***
+
+More details here on the On-Premise installation here: https://github.com/Tiledesk/tiledesk-server
