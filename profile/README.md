@@ -12,4 +12,3 @@
   •
   <a href="https://developer.tiledesk.com/community/?utm_source=github">Community</a>
 </h3>
-Footer
