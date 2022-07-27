@@ -32,11 +32,7 @@ Tiledesk main features include:
 
 * Chat tool to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
 * Team management, with Groups and Departments
-* Agent Tools
-* Canned responses
-* Tag your conversations
-* Add Notes
-* Send private messages etc.
+* Agent Tools: Canned responses, Tag your conversations, Add Notes, Send private messages etc.
 * Multi-project. Install the server once, create as many projects as you want to accomplish all your ideas
 * Multichannel: Whatsapp, Telegram, Facebook Messenger, etc.
 * Waiting queues management to manage your SLAs
