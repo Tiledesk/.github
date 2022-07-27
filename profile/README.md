@@ -70,4 +70,4 @@ You can just give Tiledesk a try by installing it with our Docker compose deploy
 More details here on the On-Premise installation are available here: https://github.com/Tiledesk/tiledesk-server
 
 # Community? Questions? Support ?
-If you need help or just want to hang out, come, say hi on our [Discord](https://discord.gg/nERZEZ7SmG) server or make a post on our [Forum](https://tiledesk.discourse.group)
+If you need help or just want to hang out, come, say hi on our [<img width="15" alt="Tiledesk discord" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"> Discord](https://discord.gg/nERZEZ7SmG) server or make a post on our [Forum](https://tiledesk.discourse.group)
