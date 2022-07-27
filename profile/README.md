@@ -30,7 +30,7 @@ Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It i
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
-# Tiledesk <b>main featuress<b>
+# Tiledesk <b>main features<b>
 * </b>Live Chat Widget</b> on Web and Mobile
 * </b>Resolution Bot</b> to automate customer support
 * Easy </b>integration with all major AI-platforms</b>, cloud and Open source, from DialogFlow to RASA
