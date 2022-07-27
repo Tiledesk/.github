@@ -30,10 +30,11 @@ Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It i
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
-Tiledesk </b>main features</b> include:
-* </b>Chat tool</b> to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-* </b>Team management</b>, with Groups and Departments
-* </b>Agent Tools</b>: 
+Tiledesk <b>main features<b> include:
+* 
+* <b>Chat tool<b> to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
+* <b>Team management<b>, with Groups and Departments
+* <b>Agent Tools<b>: 
   * Canned responses 
   * Tag your conversations 
   * Add Notes
@@ -43,7 +44,6 @@ Tiledesk </b>main features</b> include:
   * Whatsapp 
   * Telegram 
   * Facebook Messenger
-  * Live Chat widget
   * Email
 * Waiting </b>queues management</b> to manage your SLAs
 * </b>Widget theme</b> manager
