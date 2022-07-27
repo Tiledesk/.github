@@ -30,22 +30,19 @@ On top of our instant messaging engine, we developed many tools that can help yo
 
 Tiledesk main features include:
 
-*Chat tool to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-*Team management, with Groups and Departments
-*Agent Tools
-*Canned responses
-*Tag your conversations
-*Add Notes
-*Send private messages etc.
-*Multi-project. Install the server once, create as many projects as you want to accomplish all your ideas
-*Multichannel:
-**Whatsapp
-**Telegram
-**Facebook Messenger
-*Waiting queues management to manage your SLAs
-*Widget theme manager
-*Multi-language
-*Operating hours
-*And much more…
+* Chat tool to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
+* Team management, with Groups and Departments
+* Agent Tools
+* Canned responses
+* Tag your conversations
+* Add Notes
+* Send private messages etc.
+* Multi-project. Install the server once, create as many projects as you want to accomplish all your ideas
+* Multichannel: Whatsapp, Telegram, Facebook Messenger, etc.
+* Waiting queues management to manage your SLAs
+* Widget theme manager
+* Multi-language
+* Operating hours
+* And much more…
 
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
