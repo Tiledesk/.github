@@ -12,6 +12,8 @@
 
 Tiledesk is the open source conversational platform that easily connects humans and chatbots.
 
+![image](https://user-images.githubusercontent.com/32564846/181367757-77773e70-4e86-4c99-a617-a1a0e504fcd9.png)
+
 Designed to be open source since the beginning, we actively worked on it to create a totally new, first class customer service platform based on instant messaging.
 
 What is Tiledesk today? It became the open source “conversational app development” platform that everyone needs 😌
