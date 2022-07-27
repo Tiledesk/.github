@@ -30,25 +30,25 @@ Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It i
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
-Tiledesk **main features** include:
-* Chat tool to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-* Team management, with Groups and Departments
-* Agent Tools: 
+Tiledesk </b>main features</b> include:
+* </b>Chat tool</b> to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
+* </b>Team management</b>, with Groups and Departments
+* </b>Agent Tools</b>: 
   * Canned responses 
   * Tag your conversations 
   * Add Notes
   * Send private messages 
-* Multi-project. Install the server once, create as many projects as you want to accomplish all your ideas
-* Multichannel: 
+* </b>Multi-project</b>. Install the server once, create as many projects as you want to accomplish all your ideas
+* </b>Multichannel</b>: 
   * Whatsapp 
   * Telegram 
   * Facebook Messenger
   * Live Chat widget
   * Email
-* Waiting queues management to manage your SLAs
-* Widget theme manager
-* Multi-language
-* Operating hours
+* Waiting </b>queues management</b> to manage your SLAs
+* </b>Widget theme</b> manager
+* </b>Multi-language</b>
+* </b>Operating hours</b>
 * And much more…
 
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
