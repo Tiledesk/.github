@@ -55,6 +55,7 @@ Tiledesk <b>main features<b> include:
 * </b>Multi-language</b>
 * </b>Operating hours</b>
 * </b>Dashboard</b> with real time analytics
+* </b>Mobile Apps</b> for iOS and Android
 * </b>Knowledge Base</b> (beta version)
 * And much more…
 
