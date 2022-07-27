@@ -7,8 +7,6 @@
   |
   <b><a href="https://gethelp.tiledesk.com/?utm_source=github" target="_blank">Knowledge Base</a><b>
   |
-  <b><a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">Developer Hub</a><b>
-  |
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a><b>
 </h3>
 
