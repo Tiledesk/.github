@@ -12,56 +12,59 @@
 
 ![image](https://user-images.githubusercontent.com/32564846/181367757-77773e70-4e86-4c99-a617-a1a0e504fcd9.png)
 
-Tiledesk is the **open source conversational platform** that easily connects humans and chatbots
+Tiledesk is the **open source conversational platform** that easily connects humans and chatbots.
 
 Designed to be open source since the beginning, we actively worked on it to create a totally new, **first class customer service platform** based on instant messaging.
 
-What is Tiledesk today? It became the open source **“conversational app development” platform** that everyone needs 😌
+You can use Tiledesk to **increase sales for your website** or for **post-sales customer service**. Every conversation can be automated using our first class native chatbot technology.
+You can also connect your own applications using our **APIs** or **Webhooks**.
+Moreover you can deploy entire **visual applications** inside a conversation.
 
-You can use Tiledesk to <b>increase sales for your website</b> or for <b>post-sales customer service</b>. Every conversation can be automated using our first class native chatbot technology.
-You can also connect your own applications using our APIs or Webhooks.
-Moreover you can deploy entire visual applications inside a conversation. And your applications can converse with your chatbots or your end-users! We know this is cool 😎
+![image](https://user-images.githubusercontent.com/32564846/181736879-f5c6c4b5-0ba8-4dd8-8f5d-766ba8a7eba3.png)
 
-Tiledesk is <b>multichannel</b> in a totally new way. You can write your chatbot scripts with images, buttons and other cool elements that your channels support. But you will configureyour chatbot replies only once. They will run on every channel, auto-adapting the responses to the target channel whatever it is, Whatsapp, Facebook Messenger, Telegram etc.
+And your applications can converse with your chatbots or your end-users! We know this is cool 😎
 
-If you want to discover more about Tiledesk you can switch to the <b><a href="https://tiledesk.com/?utm_source=github" target="_blank">Tiledesk Website</a></b> or read online documentation on our <b><a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">Developer Hub</a>
+Tiledesk is **multichannel** in a totally new way. You can train your chatbots to reply with images, buttons and other cool elements that your channels support. But you can write your chatbot replies only once. Each reply will auto-adapt itself to all channels, from Whatsapp to Facebook Messenger to Telegram etc.
 
-Tiledesk instant messaging engine is based on MQTT and Rabbitmq technology. It is fast, lightweight and reliable.
+If you want to discover more about Tiledesk you can switch to the <a href="https://tiledesk.com/?utm_source=github" target="_blank">**Tiledesk Website**</a> or read online documentation on our <a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">**Developer Hub**</a>
+
+Tiledesk **instant messaging engine** is based on **MQTT** and **Rabbitmq** technology. It is fast, lightweight and reliable built on Industry-proved standards.
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
-# Tiledesk <b>main features<b>
-* </b>Live Chat Widget</b> on Web and Mobile
-* </b>Resolution Bot</b> to automate customer support
-* Easy </b>integration with all major AI-platforms</b>, cloud and Open source, from DialogFlow to RASA
-* </b>Ticketing Management</b> system fully integrated into the platform and instant conversation flow
-* </b>Chat tool</b> to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-* </b>Team management</b>, with Groups and Departments
-* </b>Agent Tools</b>: 
-  * Canned responses 
-  * Tag your conversations 
-  * Add Notes
-  * Send private messages 
-* </b>Multi-project</b>. Install the server once, create as many projects as you want to accomplish all your ideas
-* </b>Multichannel</b>: 
-  * Whatsapp 
-  * Telegram 
-  * Facebook Messenger
-  * Email
-* </b>Integration with the main E-commerce platforms</b>
-* Waiting </b>queues management</b> to manage your SLAs
-* </b>Seamless conversation</b> to “jump” between different channels in a transparent way for end customers and agents  
-* </b>Widget theme</b> manager
-* </b>Multi-language</b>
-* </b>Operating hours</b>
-* </b>Dashboard</b> with real time analytics
-* </b>Mobile Apps</b> for iOS and Android
-* </b>Knowledge Base</b> (beta version)
+# Tiledesk <b>main features<b> include:
+* **Live Chat Widget** on Web and Mobile
+* **Resolution Bot** to automate customer support
+* Easy **integration with all major AI-platforms**, cloud and Open source, from DialogFlow to RASA
+* **Ticketing Management** system fully integrated into the platform and instant conversation flow
+* **Chat tool** to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
+* **Team management**, with Groups and Departments
+* **Agent Tools**: 
+  * **Canned responses** 
+  * **Tags for your conversations** 
+  * **Add Notes**
+  * **Send private messages** 
+* **Multi-project**. Install the server once, create as many projects as you want to accomplish all your ideas
+* **Multichannel**: 
+  * **Whatsapp**
+  * **Telegram**
+  * **Facebook Messenger**
+  * **Email**
+* **Integration with the main E-commerce platforms**
+* Waiting **queues management** to manage your SLAs
+* **Seamless conversation** to “jump” between different channels in a transparent way for end customers and agents  
+* **Widget theme** manager
+* **Multi-language**
+* **Operating hours**
+* **Dashboard** with **real time analytics**
+* **Mobile Apps** for **iOS** and **Android**
+* **Knowledge Base**
 * And much more…
 
 Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
 
 # How to Install Tiledesk
+
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
 
 > ***🚀 Do you want to install Tiledesk on your server with just one click?***
