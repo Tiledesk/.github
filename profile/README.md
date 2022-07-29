@@ -89,7 +89,7 @@ docker-compose up
 
 If everything is ok, you will get your first project 😎
 
-![image](https://user-images.githubusercontent.com/9378770/181733184-02ab81ac-5611-422f-aa1b-58a218a6d45b.png)
+![Tiledesk Console](https://user-images.githubusercontent.com/32564846/181748122-8e8a5ee7-1cf8-4c24-b4ae-76879ec66e87.png)
 
 Have fun with Tiledesk!
 
