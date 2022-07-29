@@ -52,7 +52,7 @@ On top of our instant messaging engine, we developed many tools that can help yo
   * **Facebook Messenger**
   * **Email**
 * **Integration with the main E-commerce platforms**
-* Waiting **queues management** to manage your SLAs
+* **Smart assignment** to manage your queues SLAs
 * **Seamless conversation** to “jump” between different channels in a transparent way for end customers and agents  
 * **Widget theme** manager
 * **Multi-language**
