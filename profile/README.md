@@ -68,8 +68,14 @@ You can just give Tiledesk a try by installing it with our Docker compose deploy
 > 
 > ***Use [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md) guide***
 > Run: 
->   Step1: ```curl https://raw.githubusercontent.com/Tiledesk/tiledesk-deployment/master/docker-compose/docker-compose.yml --output docker-compose.yml```
->   Step2: ```docker-compose up```
+1. Download with:
+```bash
+curl https://raw.githubusercontent.com/Tiledesk/tiledesk-deployment/master/docker-compose/docker-compose.yml --output docker-compose.yml
+```
+2. Run with: 
+```bash
+docker-compose up
+```
 
 
 
