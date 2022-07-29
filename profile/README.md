@@ -83,10 +83,11 @@ docker-compose up
 * email: admin@tiledesk.com
 * password: adminadmin
 
-If everything it is ok, you will start from your first project dashboard 😊
+If everything it is ok, you will start from your first project dashboard 😎
+
 ![image](https://user-images.githubusercontent.com/9378770/181733184-02ab81ac-5611-422f-aa1b-58a218a6d45b.png)
 
-Have fun with Tiledesk!!
+Have fun with Tiledesk!
 
 Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md)
 
