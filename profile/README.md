@@ -20,7 +20,7 @@ You can use Tiledesk to **increase sales for your website** or for **post-sales 
 You can also connect your own applications using our **APIs** or **Webhooks**.
 Moreover you can deploy entire **visual applications** inside a conversation.
 
-![image](https://user-images.githubusercontent.com/32564846/181736879-f5c6c4b5-0ba8-4dd8-8f5d-766ba8a7eba3.png)
+![Tiledesk in-conversation apps](https://user-images.githubusercontent.com/32564846/181747912-30afa85e-edad-4fa7-a0d1-8d92465a9ebb.png)
 
 And your applications can converse with your chatbots or your end-users! We know this is cool 😎
 
