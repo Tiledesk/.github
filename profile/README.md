@@ -77,11 +77,13 @@ curl https://raw.githubusercontent.com/Tiledesk/tiledesk-deployment/master/docke
 docker-compose up
 ```
 3. Open the following URL in your browser to start 
-* Dashboard: [http://<machine_ip>:8081/](http://localhost:8081/)
+* Dashboard: [http://localhost:8081/](http://localhost:8081/)
 
 4. Signin as admin with :
 * email: admin@tiledesk.com
 * password: adminadmin
+
+![image](https://user-images.githubusercontent.com/9378770/181733184-02ab81ac-5611-422f-aa1b-58a218a6d45b.png)
 
 Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md)
 
