@@ -87,7 +87,7 @@ docker-compose up
 * email: admin@tiledesk.com
 * password: adminadmin
 
-If everything it is ok, you will start from your first project dashboard 😎
+If everything is ok, you will get your first project 😎
 
 ![image](https://user-images.githubusercontent.com/9378770/181733184-02ab81ac-5611-422f-aa1b-58a218a6d45b.png)
 
