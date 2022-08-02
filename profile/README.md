@@ -39,7 +39,7 @@ On top of our instant messaging engine, we developed many tools that can help yo
 * **Live Chat Widget** on Web and Mobile
 * **Resolution Bot** to automate customer support
 * Easy **integration with all major AI-platforms**, cloud and Open source, from DialogFlow to RASA
-* **Ticketing Management** system fully integrated into the platform and instant conversation flow
+* **Ticketing Management** seamlessly integrated with instant messaging!
 * **Chat tool** to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
 * **Team management**, with Groups and Departments
 * **Agent Tools**: 
