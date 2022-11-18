@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/105777233/202287304-39c49a6c-f614-45b7-bdd2-ceb57c72ed5e.png)
 
-Tiledesk is the **open source conversational platform** that easily connects humans and chatbots.
+Tiledesk is the **open source AI conversational platform** that easily connects humans and chatbots.
 
 Designed to be open source since the beginning, we actively worked on it to create a totally new, **first class customer service platform** based on instant messaging.
 
