@@ -37,7 +37,7 @@ On top of our instant messaging engine, we developed many tools that can help yo
 # Tiledesk **main features** include:
 
 * **Live Chat Widget** on Web and Mobile
-* **Resolution Bot** to automate customer support
+* **AI-powered chatbots** to automate customer support and/or to generate more leads
 * Easy **integration with all major AI-platforms**, cloud and Open source, from DialogFlow to RASA
 * **Ticketing Management** seamlessly integrated with instant messaging!
 * **Chat tool** to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
