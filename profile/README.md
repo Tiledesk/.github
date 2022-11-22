@@ -36,35 +36,36 @@ On top of our instant messaging engine, we developed many tools that can help yo
 
 # Tiledesk **main features** include:
 
-* **Live Chat Widget** on Web and Mobile
-* **AI-powered chatbots** to automate customer support and/or to generate more leads
+* **[Live Chat Widget](https://tiledesk.com/free-live-chat-widget/)** on Web and Mobile
+* **[AI-powered chatbots](https://tiledesk.com/no-code-chatbot-builder/)** to automate customer support and/or to generate more leads
 * Easy **integration with all major AI-platforms**, cloud and open source, from [DialogFlow](https://cloud.google.com/dialogflow) to [RASA](https://rasa.com)
-* **Ticketing Management** seamlessly integrated with instant messaging!
+* **[Ticketing Management](https://tiledesk.com/conversational-ticketing/)** seamlessly integrated with instant messaging!
 * **Chat tool** to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-* **Team management**, with Groups and Departments
+* **Team management**, with [Groups](https://gethelp.tiledesk.com/articles/creating-groups/) and [Departments](https://tiledesk.com/2022/11/16/how-to-build-your-customer-service-with-departments/)
 * **Agent Tools**: 
-  * **Canned responses** 
+  * **[Canned responses](https://gethelp.tiledesk.com/articles/canned-responses-in-the-agent-chat/)** 
   * **Tags for your conversations** 
-  * **Add Notes**
-  * **Send private messages** 
-* **Multi-project**. Install the server once, create as many projects as you want to accomplish all your ideas
+  * **Add [internal Notes](https://gethelp.tiledesk.com/articles/add-internal-notes-to-conversations/)** to conversations
+  * **Send private messages** to your colleagues
+* **Multi-project**. [Install the server once, create as many projects as you want to accomplish all your ideas](https://tiledesk.com/tiledesk-live-chat-for-contact-centers/)
 * **Multichannel**: 
-  * **Whatsapp**
-  * **Telegram**
-  * **Facebook Messenger**
-  * **Email**
-* **Integration with the main E-commerce platforms**
-* **Smart assignment** to manage your queues SLAs
+  * **[Whatsapp](https://tiledesk.com/whatsapp-chatbot-integration/)**
+  * **[Telegram](https://developer.tiledesk.com/apps/telegram-integration)**
+  * **[Facebook Messenger](https://tiledesk.com/facebook-integration-with-chatbot/)**
+  * **[Email](https://gethelp.tiledesk.com/articles/getting-started-with-email-ticketing-in-tiledesk/)**
+* **Integration with the main E-commerce platforms**: [Wordpress](https://youtu.be/o2gdC9YLj8U), [Shopify](https://youtu.be/qVdKXp8fYw4), [PrestaShop](https://youtu.be/18zUVOadUdY) and many others
+* **Smart assignment** to [manage your queues SLAs](https://gethelp.tiledesk.com/articles/setting-up-automatic-assignment/)
 * **Seamless conversation** to “jump” between different channels in a transparent way for end customers and agents  
-* **Widget theme** manager
-* **Multi-language**
-* **Operating hours**
-* **Dashboard** with **real time analytics**
-* **Mobile Apps** for **iOS** and **Android**
-* **Knowledge Base**
+* **Widget theme** [customization manager](https://gethelp.tiledesk.com/articles/customizing-the-appearance-of-the-widget/)
+* **[Multi-language](https://gethelp.tiledesk.com/articles/tiledesk-language-support/)**
+* **[Operating hours](https://gethelp.tiledesk.com/articles/define-the-operating-hours/)**
+* **Dashboard** with **real time [analytics](https://gethelp.tiledesk.com/articles/tiledesk-analytics-101/)**
+* **[Mobile Apps](https://tiledesk.com/mobile-live-chat-android-e-iphone-apps/)** for **iOS** and **Android**
+* **[Knowledge Base](https://gethelp.tiledesk.com/articles/getting-started-with-help-center/)**
 * And much more…
 
 Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
+[Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
 
 # How to Install Tiledesk
 
