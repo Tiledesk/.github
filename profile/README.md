@@ -30,7 +30,7 @@ Tiledesk is **multichannel** in a totally new way. You can train your chatbots t
 
 If you want to discover more about Tiledesk you can switch to the <a href="https://tiledesk.com/?utm_source=github" target="_blank">**Tiledesk Website**</a> or read online documentation on our <a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">**Developer Hub**</a>
 
-Tiledesk **instant messaging engine** is based on **MQTT** and **Rabbitmq** technology. It is fast, lightweight and reliable built on Industry-proved standards.
+Tiledesk **instant messaging engine** is based on **MQTT** and **Rabbitmq** technology. It is fast, lightweight and reliable built on Industry-proven standards.
 
 On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
 
