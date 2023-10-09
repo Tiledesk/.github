@@ -101,4 +101,10 @@ Have fun with Tiledesk!
 Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md)
 
 # Community? Questions? Support ?
-If you need help or just want to hang out, come, say hi on our [<img width="15" alt="Tiledesk discord" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"> Discord](https://discord.gg/nERZEZ7SmG) server or make a post on our [Forum](https://tiledesk.discourse.group)
+If you need help make a post on our [Forum](https://tiledesk.discourse.group)
+
+# Feedback? New Ideas?
+Visit our [Feeback Board](https://tiledesk.sleekplan.app/) to discuss new ideas, suggestions and solve issues to make Tiledesk even better for you. 
+
+# Public Roadmap
+Check our [Public Roadmap](https://tiledesk.sleekplan.app/roadmap) to see activities In Progress, Planned and Under Review.
