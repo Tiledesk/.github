@@ -12,13 +12,13 @@
 
 <img width="1216" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/105777233/300b0681-c481-485f-97f0-8ea27a638415">
 
-# Tiledesk: Automated Customer Communication Solution
+# Tiledesk: Empowering Developers in Automating Conversations
 
-Welcome to Tiledesk, the pioneering community of chatbot builders that's transforming the way businesses communicate.
+Welcome to Tiledesk, the hub for developers in the chatbot building community, reshaping the landscape of business communication.
 
-Our open-source platform empowers you to design and automate conversations across various channels, including WhatsApp, websites, and Facebook.
+Tiledesk is your open-source alternative, tailored for developers, offering robust capabilities to design and automate conversations across a multitude of channels, including WhatsApp, websites, and Facebook.
 
-With our intuitive drag-and-drop interface, crafting the perfect conversation flow has never been easier. Coupled with our ChatGPT integration and conversational AI, you can automate customer conversations and engagement in a human-like manner.
+Create conversations and automations effortlessly – a Voiceflow and Botpress alternative. With a developer-friendly drag-and-drop interface, you have the power to craft intricate conversation flows effortlessly. Enhance your solutions with our seamless ChatGPT integration and conversational AI, enabling you to create automated customer interactions that closely mimic human conversation.
 
 ## Key Features
 
