@@ -20,6 +20,9 @@ Tiledesk is your open-source alternative, tailored for developers, offering robu
 
 Create conversations and automations effortlessly – a Voiceflow and Botpress alternative. With a developer-friendly drag-and-drop interface, you have the power to craft intricate conversation flows effortlessly. Enhance your solutions with our seamless ChatGPT integration and conversational AI, enabling you to create automated customer interactions that closely mimic human conversation.
 
+Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
+[Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
+
 ## Key Features
 
 ### Design Studio
@@ -75,10 +78,6 @@ Maintain your brand identity with our customizable chat widget. Choose from vari
 Discuss customer questions with teammates behind the scenes before replying by adding internal notes to conversations.
 
 Tiledesk is a robust platform that empowers marketers to enhance their lead generation and qualification processes. It automates repetitive tasks using AI-powered chatbots, boosting efficiency and productivity. Simultaneously, it supports customer service teams by leveraging Generative AI and conversational automation, maximizing their efficiency. This dual approach not only streamlines operations but also improves the overall customer experience.
-
-
-Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
-[Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
 
 # How to Install Tiledesk
 
