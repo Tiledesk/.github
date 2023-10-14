@@ -10,59 +10,70 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
-![image](https://user-images.githubusercontent.com/105777233/202287304-39c49a6c-f614-45b7-bdd2-ceb57c72ed5e.png)
+# Tiledesk: Automated Customer Communication Solution
 
-Tiledesk is the **open source AI conversational platform** that easily connects humans and chatbots.
+Welcome to Tiledesk, the pioneering community of chatbot builders that's transforming the way businesses communicate.
 
-Designed to be open source since the beginning, we actively worked on it to create a totally new, **first class customer service platform** based on instant messaging.
+Our open-source platform empowers you to design and automate conversations across various channels, including WhatsApp, websites, and Facebook.
 
-You can use Tiledesk to **increase sales for your website** or for **post-sales customer service**. Every conversation can be automated using our first class native chatbot technology.
-You can also connect your own applications using our **APIs** or **Webhooks**.
-Moreover you can deploy entire **visual applications** inside a conversation.
+With our intuitive drag-and-drop interface, crafting the perfect conversation flow has never been easier. Coupled with our ChatGPT integration and conversational AI, you can automate customer conversations and engagement in a human-like manner.
 
-<p align="center">
-  <img alt="Tiledesk in-conversation apps" src="https://user-images.githubusercontent.com/32564846/181747912-30afa85e-edad-4fa7-a0d1-8d92465a9ebb.png">
-</p>
+## Key Features
 
-And your applications can converse with your chatbots or your end-users! We know this is cool 😎
+### Design Studio
 
-Tiledesk is **multichannel** in a totally new way. You can train your chatbots to reply with images, buttons and other cool elements that your channels support. But you can write your chatbot replies only once. Each reply will auto-adapt itself to all channels, from Whatsapp to Facebook Messenger to Telegram etc.
+Our cutting-edge Design Studio allows you to design your ideal conversation flow and implement it in minutes, hassle-free.
 
-If you want to discover more about Tiledesk you can switch to the <a href="https://tiledesk.com/?utm_source=github" target="_blank">**Tiledesk Website**</a> or read online documentation on our <a href="https://developer.tiledesk.com/?utm_source=github" target="_blank">**Developer Hub**</a>
+### ChatGPT Integration
 
-Tiledesk **instant messaging engine** is based on **MQTT** and **Rabbitmq** technology. It is fast, lightweight and reliable built on Industry-proven standards.
+This feature enables your bot to generate human-like responses to customer inquiries.
 
-On top of our instant messaging engine, we developed many tools that can help you accomplish your daily tasks with your customers, your operators and your teammates.
+### Prioritize Inbound Requests with ChatGPT
 
-# Tiledesk **main features** include:
+With our AI technology, you can tag and prioritize inbound customer requests, ensuring that important conversations are never missed.
 
-* **[Live Chat Widget](https://tiledesk.com/free-live-chat-widget/)** on Web and Mobile
-* **[AI-powered chatbots](https://tiledesk.com/no-code-chatbot-builder/)** to automate customer support and/or to generate more leads
-* Easy **integration with all major AI-platforms**, cloud and open source, from [DialogFlow](https://cloud.google.com/dialogflow) to [RASA](https://rasa.com)
-* **[Ticketing Management](https://tiledesk.com/conversational-ticketing/)** seamlessly integrated with instant messaging!
-* **Chat tool** to chat with everyone, from your end-users, to your colleagues, and with your chatbots too
-* **Team management**, with [Groups](https://gethelp.tiledesk.com/articles/creating-groups/) and [Departments](https://tiledesk.com/2022/11/16/how-to-build-your-customer-service-with-departments/)
-* **Agent Tools**: 
-  * **[Canned responses](https://gethelp.tiledesk.com/articles/canned-responses-in-the-agent-chat/)** 
-  * **Tags for your conversations** 
-  * **Add [internal Notes](https://gethelp.tiledesk.com/articles/add-internal-notes-to-conversations/)** to conversations
-  * **Send private messages** to your colleagues
-* **Multi-project**. [Install the server once, create as many projects as you want to accomplish all your ideas](https://tiledesk.com/tiledesk-live-chat-for-contact-centers/)
-* **Multichannel**: 
-  * **[Whatsapp](https://tiledesk.com/whatsapp-chatbot-integration/)**
-  * **[Telegram](https://developer.tiledesk.com/apps/telegram-integration)**
-  * **[Facebook Messenger](https://tiledesk.com/facebook-integration-with-chatbot/)**
-  * **[Email](https://gethelp.tiledesk.com/articles/getting-started-with-email-ticketing-in-tiledesk/)**
-* **Integration with the main E-commerce platforms**: [Wordpress](https://youtu.be/o2gdC9YLj8U), [Shopify](https://youtu.be/qVdKXp8fYw4), [PrestaShop](https://youtu.be/18zUVOadUdY) and many others
-* **Smart assignment** to [manage your queues SLAs](https://gethelp.tiledesk.com/articles/setting-up-automatic-assignment/)
-* **Seamless conversation** to “jump” between different channels in a transparent way for end customers and agents  
-* **Widget theme** [customization manager](https://gethelp.tiledesk.com/articles/customizing-the-appearance-of-the-widget/)
-* **[Multi-language](https://gethelp.tiledesk.com/articles/tiledesk-language-support/)**
-* **[Operating hours](https://gethelp.tiledesk.com/articles/define-the-operating-hours/)**
-* **Dashboard** with **real time [analytics](https://gethelp.tiledesk.com/articles/tiledesk-analytics-101/)**
-* **[Mobile Apps](https://tiledesk.com/mobile-live-chat-android-e-iphone-apps/)** for **iOS** and **Android**
-* **[Knowledge Base](https://gethelp.tiledesk.com/articles/getting-started-with-help-center/)**
-* And much more…
+### ChatGPT Powered Knowledge Base
+
+Connect your Tiledesk bot to ChatGPT and your knowledge base. This allows your bot to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation.
+
+### AI-Powered Chatbot
+
+Create an AI chatbot that understands user intent using Natural Language Processing (NLP) and provides personalized services.
+
+### Live Chat
+
+Implement our chat widget on both web and mobile platforms.
+
+### Analytics
+
+Our dashboard provides real-time metrics, including statistics on the overall volume of conversations and those managed by bots, offering valuable insights.
+
+### Departments
+
+With our Departments feature, you can create different departments with specific skills for efficient transfer of user’s conversations.
+
+### Web Integrations
+
+Our Web Integrations feature allows you to integrate your AI chatbot on platforms like WordPress, Shopify, Prestashop, Wix, BigCommerce, and Joomla with just a few clicks.
+
+### Multichannel Support
+
+Design your conversation flow once with our Multichannel Support feature and let Tiledesk optimize it for different channels like WhatsApp, Facebook, Telegram, and Email.
+
+### Canned Responses
+
+Reduce the workload of human resources by answering common questions with predefined responses using our Canned Responses feature.
+
+### Widget Theme Customization
+
+Maintain your brand identity with our customizable chat widget. Choose from various themes or customize the color and position based on your needs with our Widget Theme Customization feature.
+
+### Internal Notes for Conversations
+
+Discuss customer questions with teammates behind the scenes before replying by adding internal notes to conversations.
+
+Tiledesk is a robust platform that empowers marketers to enhance their lead generation and qualification processes. It automates repetitive tasks using AI-powered chatbots, boosting efficiency and productivity. Simultaneously, it supports customer service teams by leveraging Generative AI and conversational automation, maximizing their efficiency. This dual approach not only streamlines operations but also improves the overall customer experience.
+
 
 Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
 [Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
