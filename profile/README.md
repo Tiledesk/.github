@@ -10,6 +10,8 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
+<img width="1216" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/105777233/300b0681-c481-485f-97f0-8ea27a638415">
+
 # Tiledesk: Automated Customer Communication Solution
 
 Welcome to Tiledesk, the pioneering community of chatbot builders that's transforming the way businesses communicate.
