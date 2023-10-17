@@ -10,7 +10,9 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
-<img width="1216" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/105777233/300b0681-c481-485f-97f0-8ea27a638415">
+<img width="1216" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/113347904/a73f67e0-a45c-4bdf-8fe5-041a881885ad">
+
+
 
 # Tiledesk: Empowering Developers in Automating Conversations
 
