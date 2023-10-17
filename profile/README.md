@@ -81,6 +81,10 @@ Maintain your brand identity with our customizable chat widget. Choose from vari
 
 Discuss customer questions with teammates behind the scenes before replying by adding internal notes to conversations.
 
+<p align="center">
+  <img width="800" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/113347904/96daf328-0207-4ee5-a334-ff733260a319">
+</p>
+
 Tiledesk is a robust platform that empowers marketers to enhance their lead generation and qualification processes. It automates repetitive tasks using AI-powered chatbots, boosting efficiency and productivity. Simultaneously, it supports customer service teams by leveraging Generative AI and conversational automation, maximizing their efficiency. This dual approach not only streamlines operations but also improves the overall customer experience.
 
 # How to Install Tiledesk
@@ -108,9 +112,7 @@ docker-compose up
 
 If everything is ok, you will get your first project 😎
 
-<p align="center">
-  <img alt="Tiledesk Console" src="https://user-images.githubusercontent.com/32564846/181748122-8e8a5ee7-1cf8-4c24-b4ae-76879ec66e87.png">
-</p>
+  
 
 Have fun with Tiledesk!
 
