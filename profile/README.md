@@ -89,9 +89,13 @@ Tiledesk is a robust platform that empowers marketers to enhance their lead gene
 
 # How to Install Tiledesk
 
-You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
+You can easily try out Tiledesk by installing it with our Docker compose deployment package. Alternatively, experience the platform online by creating a free account. It's hassle-free and completely free, just like our code! 🙂
 
-Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md)
+- Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md).
+
+Looking for a more scalable architecture? Check out our guide to [Install Tiledesk with Kubernetes and Helm](https://github.com/Tiledesk/tiledesk/blob/master/helm/README.md) 🚀
+
+Additionally, consider [self-hosting Tiledesk in just a few clicks using Scoutflo](https://deploy.scoutflo.com/workspace/deploy/tiledesk).
 
 # Community? Questions? Support ?
 If you need help make a post on our [Forum](https://tiledesk.discourse.group).
