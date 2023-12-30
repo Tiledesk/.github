@@ -91,38 +91,13 @@ Tiledesk is a robust platform that empowers marketers to enhance their lead gene
 
 You can just give Tiledesk a try by installing it with our Docker compose deployment package. Or you can try the platform online by simply creating a free account. It’s easy and it’s free just like our code 🙂
 
-> ***🚀 Do you want to install Tiledesk on your server with just one click?***
-> 
-> ***Use [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md) guide***
-> Run: 
-1. Download with:
-```bash
-curl https://raw.githubusercontent.com/Tiledesk/tiledesk-deployment/master/docker-compose/docker-compose.yml --output docker-compose.yml
-```
-2. Run with: 
-```bash
-docker-compose up
-```
-3. Open the following URL in your browser to start 
-* Dashboard: [http://localhost:8081/](http://localhost:8081/)
-
-4. Signin as admin with :
-* email: admin@tiledesk.com
-* password: adminadmin
-
-If everything is ok, you will get your first project 😎
-
-  
-
-Have fun with Tiledesk!
-
 Complete guide for [Docker Compose Tiledesk installation](https://github.com/Tiledesk/tiledesk-deployment/blob/master/docker-compose/README.md)
 
 # Community? Questions? Support ?
 If you need help make a post on our [Forum](https://tiledesk.discourse.group).
 
 # Feedback? New Ideas?
-Visit our [Feeback Board](https://tiledesk.sleekplan.app/) to discuss new ideas, suggestions and solve issues to make Tiledesk even better for you. 
+Visit our [Feeback Board](https://feedback.tiledesk.com/) to discuss new ideas, suggestions and solve issues to make Tiledesk even better for you. 
 
 # Public Roadmap
-Check our [Public Roadmap](https://tiledesk.sleekplan.app/roadmap) to see activities In Progress, Planned and Under Review.
+Check our [Public Roadmap](https://feedback.tiledesk.com/roadmap) to see activities In Progress, Planned and Under Review.
