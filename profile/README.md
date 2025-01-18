@@ -14,13 +14,13 @@
 
 
 
-# Tiledesk: Empowering Developers in Automating Conversations
+# Tiledesk: open-source AI agents to automate workflows
 
-Welcome to Tiledesk, the hub for developers in the chatbot building community, reshaping the landscape of business communication.
+Welcome to Tiledesk, the ultimate open-source hub for developers building AI-powered agents to automate workflows and enhance business operations.
 
-Tiledesk is your open-source alternative, tailored for developers, offering robust capabilities to design and automate conversations across a multitude of channels, including WhatsApp, websites, and Facebook.
+Tiledesk empowers you to create intelligent AI agents and automate conversations seamlessly across multiple channels, including WhatsApp, websites and Facebook. With our open-core platform licensed under MIT, you can build, customize, and self-host solutions tailored to your specific needs.
 
-Create conversations and automations effortlessly – a Voiceflow and Botpress alternative. With a developer-friendly drag-and-drop interface, you have the power to craft intricate conversation flows effortlessly. Enhance your solutions with our seamless ChatGPT integration and conversational AI, enabling you to create automated customer interactions that closely mimic human conversation.
+Looking to expand your product’s offering? Tiledesk’s white-label capabilities make it easy to integrate AI-powered workflows into your platform, enabling you to deliver unmatched value to your customers.
 
 <a href="https://www.producthunt.com/posts/design-studio-by-tiledesk?utm_source=badge-golden-kitty-badge&utm_medium=badge&utm_souce=badge-design&#0045;studio&#0045;by&#0045;tiledesk" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/golden-kitty-badge.svg?post_id=418558&theme=light" alt="Design&#0032;Studio&#0032;by&#0032;Tiledesk - Unlock&#0032;AI&#0032;magic&#0032;for&#0032;elevated&#0032;customer&#0032;engagement&#0044;&#0032;fast | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -30,6 +30,14 @@ Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (
 
 [Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
 
+## Why Tiledesk?
+
+Tiledesk isn’t just another AI tool. It’s your **open-core alternative** for creating scalable, customizable solutions. Whether you're a developer, system integrator or SaaS company, Tiledesk helps you:  
+- **Automate workflows**: From customer service to lead generation and internal processes.  
+- **Expand offerings**: Seamlessly integrate AI capabilities into your platform with our white-label solution.  
+- **Keep control**: Self-host, modify, and tailor the solution to fit your exact requirements.  
+
+Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to enhance its product portfolio and by a **leading UC provider** to reduce development costs by 30% while improving upselling by 20%. These partnerships underscore Tiledesk’s ability to drive efficiency and deliver exceptional results. 
 
 ## Key Features
 
@@ -89,7 +97,6 @@ Discuss customer questions with teammates behind the scenes before replying by a
   <img width="800" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/113347904/96daf328-0207-4ee5-a334-ff733260a319">
 </p>
 
-Tiledesk is a robust platform that empowers marketers to enhance their lead generation and qualification processes. It automates repetitive tasks using AI-powered chatbots, boosting efficiency and productivity. Simultaneously, it supports customer service teams by leveraging Generative AI and conversational automation, maximizing their efficiency. This dual approach not only streamlines operations but also improves the overall customer experience.
 
 # How to Install Tiledesk
 
@@ -101,11 +108,6 @@ Looking for a more scalable architecture? Check out our guide to [Install Tilede
 
 Additionally, consider [self-hosting Tiledesk in just a few clicks using Scoutflo](https://deploy.scoutflo.com/workspace/deploy/tiledesk).
 
-# Community? Questions? Support ?
-If you need help make a post on our [Forum](https://tiledesk.discourse.group).
-
-# Feedback? New Ideas?
-Visit our [Feeback Board](https://feedback.tiledesk.com/) to discuss new ideas, suggestions and solve issues to make Tiledesk even better for you. 
 
 # Public Roadmap
 Check our [Public Roadmap](https://feedback.tiledesk.com/roadmap) to see activities In Progress, Planned and Under Review.
