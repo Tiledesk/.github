@@ -53,9 +53,11 @@ Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to
 
 Our cutting-edge Design Studio allows you to design your ideal conversation flow and implement it in minutes, hassle-free.
 
-### ChatGPT Integration
+### OpenAI, Claude, and open-source LLMs (through Ollama, vLLM) Integration
 
-This feature enables your bot to generate human-like responses to customer inquiries.
+Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
+
+<img width="1373" height="901" alt="image" src="https://github.com/user-attachments/assets/04733aa4-4e2b-4699-9828-09c86ac82165" />
 
 ### Prioritize Inbound Requests with ChatGPT
 
