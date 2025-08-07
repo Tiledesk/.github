@@ -56,9 +56,9 @@ Our cutting-edge Design Studio allows you to design your ideal conversation flow
 ### OpenAI, Claude, and open-source LLMs (through Ollama, vLLM) Integration
 
 Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
-
-<img width="701" height="459" alt="image" src="https://github.com/user-attachments/assets/482cb3c1-4465-4f5f-a228-a4d0436f8a32" />
-
+<p align="center">
+  <img width="701" height="459" alt="image" src="https://github.com/user-attachments/assets/482cb3c1-4465-4f5f-a228-a4d0436f8a32" />
+</p>
 ### Prioritize Inbound Requests with ChatGPT
 
 With our AI technology, you can tag and prioritize inbound customer requests, ensuring that important conversations are never missed.
