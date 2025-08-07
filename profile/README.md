@@ -10,8 +10,6 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
-<img width="1890" height="927" alt="image" src="https://github.com/user-attachments/assets/e1353c5b-78c7-4239-a4a1-cb962d0ea8ed" />
-
 <img width="1891" height="924" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
 
 
