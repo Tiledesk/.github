@@ -14,11 +14,16 @@
 
 
 
-# Tiledesk: open-source AI agents to automate workflows
+# Tiledesk: open-source Agentic-AI Operating System
 
-Welcome to Tiledesk, the ultimate open-source hub for developers building AI-powered agents to automate workflows and enhance business operations.
+Welcome to Tiledesk, the ultimate open-source hub for developers building Agentic-AI automations.
 
-Tiledesk empowers you to create intelligent AI agents and automate conversations seamlessly across multiple channels, including WhatsApp, websites and Facebook. With our open-core platform licensed under MIT, you can build, customize, and self-host solutions tailored to your specific needs.
+Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes. Ready for real-world use cases across Support, Operations and more with multi-agents, humans in the loop, MCP, native RAGs and APIs
+
+Tiledesk empowers you to create intelligent AI agents and automate conversations and workflows seamlessly across multiple channels, including WhatsApp, websites, Facebook and more.
+With our open-core platform licensed under MIT, you can build, customize, and self-host solutions tailored to your specific needs.
+
+The Open-source version of Tiledesk includes all you need to run your open-source LLM models and RAGs safe into your own data center or private cloud. 
 
 Looking to expand your product’s offering? Tiledesk’s white-label capabilities make it easy to integrate AI-powered workflows into your platform, enabling you to deliver unmatched value to your customers.
 
@@ -26,14 +31,15 @@ Looking to expand your product’s offering? Tiledesk’s white-label capabiliti
 
 *Golden Kitty Awards 2023: Open Source Product of the Year*
 
-Tiledesk is an open source project, made with passion ❤️‍🔥 in Salento (Southern Italy) 🇮🇹
+Tiledesk is an open source project, made with passion ❤️‍🔥 in Italy 🇮🇹
 
 [Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
 
 ## Why Tiledesk?
 
-Tiledesk isn’t just another AI tool. It’s your **open-core alternative** for creating scalable, customizable solutions. Whether you're a developer, system integrator or SaaS company, Tiledesk helps you:  
-- **Automate workflows**: From customer service to lead generation and internal processes.  
+Tiledesk isn’t just another AI tool. It’s your **open-core alternative** for creating scalable, customizable Agenti-AI solutions. Whether you're a developer, system integrator or SaaS company, Tiledesk helps you:  
+- **Automate workflows**: From customer service to lead generation and internal processes.
+- **Information retrival**: With our native RAG (aka Knowledge Base) we offer a native solution based on Qdrant and multiple LLMs to build Responders, Shopping assistants, Read you product documents, Reply based on your website contents and more
 - **Expand offerings**: Seamlessly integrate AI capabilities into your platform with our white-label solution.  
 - **Keep control**: Self-host, modify, and tailor the solution to fit your exact requirements.  
 
