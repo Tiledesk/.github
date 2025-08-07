@@ -16,12 +16,12 @@
 
 # Tiledesk: open-source Agentic-AI Operating System
 
-Welcome to Tiledesk, the ultimate open-source hub for developers building Agentic-AI automations.
+Welcome to Tiledesk, the ultimate open-source platform for developers building Agentic-AI automations.
 
-Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes. Ready for real-world use cases across Support, Operations and more with Visual flow designer, Multi-agents, humans in the loop, Model Context Protocol (MCP) support, native RAGs, APIs and more!
+Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes. Ready for real-world use cases across Support, Operations and more, with Visual Automations Designer, Multi-agents, humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more!
 
-Tiledesk empowers you to create intelligent AI agents and automate conversations and workflows seamlessly across multiple channels, including WhatsApp, websites, Facebook and more.
-With our open-core platform licensed under MIT, you can build, customize, and self-host solutions tailored to your specific needs.
+Tiledesk empowers you to create intelligent AI agents and automate conversations and workflows seamlessly across multiple channels, including WhatsApp, websites, Facebook, Email and more.
+With our open-core platform licensed under MIT, you can build, customize, and self-host LLM AI solutions tailored to your specific needs.
 
 The Open-source version of Tiledesk includes all you need to run your open-source LLM models and RAGs safe into your own data center or private cloud. 
 
@@ -59,17 +59,18 @@ This feature enables your bot to generate human-like responses to customer inqui
 
 With our AI technology, you can tag and prioritize inbound customer requests, ensuring that important conversations are never missed.
 
-### ChatGPT Powered Knowledge Base
+### LLM Agnostic Knowledge Base (RAG)
 
-Connect your Tiledesk bot to ChatGPT and your knowledge base. This allows your bot to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation.
+Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your knowledge base. This allows your Agents to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation.
 
 ### AI-Powered Chatbot
 
 Create an AI chatbot that understands user intent using Natural Language Processing (NLP) and provides personalized services.
 
-### Live Chat
+### Human In The Loop
 
-Implement our chat widget on both web and mobile platforms.
+**Smart handoff from AI to Humans when needed** Complex or ambiguous conversations are intelligently escalated to human agents with full context, ensuring reliable support.
+**Self-Learning** AI improves from human interactions. Human responses and feedback from escalated cases are used to train and improve AI agents, fostering a self-learning cycle.
 
 ### Analytics
 
