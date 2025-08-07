@@ -70,47 +70,16 @@ With our AI technology, you can tag and prioritize inbound customer requests, en
 
 Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your knowledge base. This allows your Agents to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation.
 
-### AI-Powered Chatbot
-
-Create an AI chatbot that understands user intent using Natural Language Processing (NLP) and provides personalized services.
+<img width="1579" height="901" alt="image" src="https://github.com/user-attachments/assets/555d63a4-2b32-4f88-9049-230456a9aa8c" />
 
 ### Human In The Loop
 
 **Smart handoff from AI to Humans when needed** Complex or ambiguous conversations are intelligently escalated to human agents with full context, ensuring reliable support.
 **Self-Learning** AI improves from human interactions. Human responses and feedback from escalated cases are used to train and improve AI agents, fostering a self-learning cycle.
 
-### Analytics
-
-Our dashboard provides real-time metrics, including statistics on the overall volume of conversations and those managed by bots, offering valuable insights.
-
-### Departments
-
-With our Departments feature, you can create different departments with specific skills for efficient transfer of user’s conversations.
-
-### Web Integrations
-
-Our Web Integrations feature allows you to integrate your AI chatbot on platforms like WordPress, Shopify, Prestashop, Wix, BigCommerce, and Joomla with just a few clicks.
-
 ### Multichannel Support
 
 Design your conversation flow once with our Multichannel Support feature and let Tiledesk optimize it for different channels like WhatsApp, Facebook, Telegram, and Email.
-
-### Canned Responses
-
-Reduce the workload of human resources by answering common questions with predefined responses using our Canned Responses feature.
-
-### Widget Theme Customization
-
-Maintain your brand identity with our customizable chat widget. Choose from various themes or customize the color and position based on your needs with our Widget Theme Customization feature.
-
-### Internal Notes for Conversations
-
-Discuss customer questions with teammates behind the scenes before replying by adding internal notes to conversations.
-
-<p align="center">
-  <img width="800" alt="ProductImage" src="https://github.com/Tiledesk/.github/assets/113347904/96daf328-0207-4ee5-a334-ff733260a319">
-</p>
-
 
 # How to Install Tiledesk
 
