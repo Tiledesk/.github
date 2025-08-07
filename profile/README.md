@@ -71,7 +71,8 @@ Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your k
 **Self-Learning** AI improves from human interactions. Human responses and feedback from escalated cases are used to train and improve AI agents, fostering a self-learning cycle.
 
 <p align="center">
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/3db689bf-1521-4447-8472-858a7d8b8334" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/a79070bd-3373-40bf-ba22-564267bd09c2" />
+
 </p>
 
 ### Multichannel Support
