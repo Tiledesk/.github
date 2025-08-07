@@ -18,7 +18,7 @@
 
 Welcome to Tiledesk, the ultimate open-source hub for developers building Agentic-AI automations.
 
-Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes. Ready for real-world use cases across Support, Operations and more with multi-agents, humans in the loop, MCP, native RAGs and APIs
+Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes. Ready for real-world use cases across Support, Operations and more with Visual flow designer, Multi-agents, humans in the loop, Model Context Protocol (MCP) support, native RAGs, APIs and more!
 
 Tiledesk empowers you to create intelligent AI agents and automate conversations and workflows seamlessly across multiple channels, including WhatsApp, websites, Facebook and more.
 With our open-core platform licensed under MIT, you can build, customize, and self-host solutions tailored to your specific needs.
