@@ -27,22 +27,18 @@ With our open-core platform licensed under MIT, you can build, customize, and se
 
 The Open-source version of Tiledesk includes all you need to run your open-source LLM models and RAGs safe into your own data center or private cloud. 
 
-Looking to expand your product’s offering? Tiledesk’s white-label capabilities make it easy to integrate AI-powered workflows into your platform, enabling you to deliver unmatched value to your customers.
-
 <a href="https://www.producthunt.com/posts/design-studio-by-tiledesk?utm_source=badge-golden-kitty-badge&utm_medium=badge&utm_souce=badge-design&#0045;studio&#0045;by&#0045;tiledesk" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/golden-kitty-badge.svg?post_id=418558&theme=light" alt="Design&#0032;Studio&#0032;by&#0032;Tiledesk - Unlock&#0032;AI&#0032;magic&#0032;for&#0032;elevated&#0032;customer&#0032;engagement&#0044;&#0032;fast | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 *Golden Kitty Awards 2023: Open Source Product of the Year*
 
 Tiledesk is an open source project, made with passion ❤️‍🔥 in Italy 🇮🇹
 
-[Visit Tiledesk Headquarter!](https://www.google.com/maps/place/Tiledesk,+Corso+Principe+di+Piemonte,+Galatina,+Province+of+Lecce/@41.9069952,12.5304832,12z/data=!4m5!3m4!1s0x25cd7c1c2f0b961:0x2b6b6b97bfbc9638!8m2!3d40.1740762!4d18.1671877)
-
 ## Why Tiledesk?
 
-Tiledesk isn’t just another AI tool. It’s your **open-core alternative** for creating scalable, customizable Agentic-AI solutions. Whether you're a developer, system integrator or SaaS company, Tiledesk helps you:  
+Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Operating System** for creating scalable, customizable Agentic-AI applications.
+Tiledesk helps you:  
 - **Automate workflows**: From customer service to lead generation and internal processes.
 - **Information retrival**: With our native RAG (aka Knowledge Base) we offer a native solution based on Qdrant and multiple LLMs to build Responders, Shopping assistants, Read you product documents, Reply based on your website contents and more
-- **Expand offerings**: Seamlessly integrate AI capabilities into your platform with our white-label solution.  
 - **Keep control**: Self-host, modify, and tailor the solution to fit your exact requirements.  
 
 Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to enhance its product portfolio and by a **leading UC provider** to reduce development costs by 30% while improving upselling by 20%. These partnerships underscore Tiledesk’s ability to drive efficiency and deliver exceptional results. 
@@ -56,7 +52,7 @@ Our cutting-edge Design Studio allows you to design your ideal conversation flow
 <img width="1666" height="957" alt="image" src="https://github.com/user-attachments/assets/0ca646bb-d65c-406f-9e02-404db7c69b55" />
 
 
-### OpenAI, Claude, and open-source LLMs (through Ollama, vLLM) Integration
+### OpenAI, Claude, and open-source LLMs (Ollama/vLLM) Integration
 
 Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
 <p align="center">
