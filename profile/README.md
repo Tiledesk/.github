@@ -58,9 +58,6 @@ Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you c
 <p align="center">
   <img width="701" height="459" alt="image" src="https://github.com/user-attachments/assets/482cb3c1-4465-4f5f-a228-a4d0436f8a32" />
 </p>
-### Prioritize Inbound Requests with ChatGPT
-
-With our AI technology, you can tag and prioritize inbound customer requests, ensuring that important conversations are never missed.
 
 ### LLM Agnostic Knowledge Base (RAG)
 
