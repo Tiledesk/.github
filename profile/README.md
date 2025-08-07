@@ -13,7 +13,6 @@
 <img width="1890" height="927" alt="image" src="https://github.com/user-attachments/assets/e1353c5b-78c7-4239-a4a1-cb962d0ea8ed" />
 
 
-
 # Tiledesk: open-source Agentic-AI Operating System
 
 Welcome to Tiledesk, the ultimate open-source hub for developers building Agentic-AI automations.
