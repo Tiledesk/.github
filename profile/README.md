@@ -57,7 +57,7 @@ Our cutting-edge Design Studio allows you to design your ideal conversation flow
 
 Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
 
-<img width="1373" height="901" alt="image" src="https://github.com/user-attachments/assets/04733aa4-4e2b-4699-9828-09c86ac82165" />
+<img width="1000" height="656" alt="image" src="https://github.com/user-attachments/assets/482cb3c1-4465-4f5f-a228-a4d0436f8a32" />
 
 ### Prioritize Inbound Requests with ChatGPT
 
