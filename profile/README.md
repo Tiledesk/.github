@@ -53,6 +53,8 @@ Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to
 
 Our cutting-edge Design Studio allows you to design your ideal conversation flow and implement it in minutes, hassle-free.
 
+<img width="1393" height="488" alt="image" src="https://github.com/user-attachments/assets/95c168c6-a652-4dc1-9df0-85352af2d291" />
+
 ### OpenAI, Claude, and open-source LLMs (through Ollama, vLLM) Integration
 
 Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
