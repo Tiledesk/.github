@@ -69,6 +69,8 @@ Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your k
 
 **Smart handoff from AI to Humans when needed** Complex or ambiguous conversations are intelligently escalated to human agents with full context, ensuring reliable support.
 **Self-Learning** AI improves from human interactions. Human responses and feedback from escalated cases are used to train and improve AI agents, fostering a self-learning cycle.
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/3db689bf-1521-4447-8472-858a7d8b8334" />
+
 
 ### Multichannel Support
 
