@@ -11,9 +11,10 @@
 </h3>
 
 Conversational Agents
-<img height="700" alt="image" src="https://github.com/user-attachments/assets/3d4134c6-001b-4f20-bc5e-31eec75b30d8" />
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/77a7f886-801f-4451-adf1-a3e6fa077669" />
 
-Automations
+
+Agentic Automations
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
 
 
