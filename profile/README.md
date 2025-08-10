@@ -10,7 +10,11 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
-<img width="1891" height="924" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
+Conversational Agents
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/3d4134c6-001b-4f20-bc5e-31eec75b30d8" />
+
+Automations
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
 
 
 
