@@ -26,8 +26,6 @@ You can build no-code Conversational Agents
 Or no-code Agentic-AI Automations
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
 
-<img width="2440" height="1358" alt="image" src="https://github.com/user-attachments/assets/68e776cc-af84-4018-a316-d8f3da95f0a6" />
-
 Use Whatsapp, email, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
 
 The Open-source version of Tiledesk includes all you need to run your open-source LLM models and RAGs safe into your own data center or private cloud. 
