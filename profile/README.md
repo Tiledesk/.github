@@ -10,11 +10,11 @@
   <b><a href="https://developer.tiledesk.com/community/?utm_source=github" target="_blank">Community</a></b>
 </h3>
 
-### Welcome to Tiledesk 👋
+# Tiledesk: open-source Agentic-AI Operating System
 Tiledesk is the ultimate open-source platform to automate your company with Agentic-AI applications.
 <br>
 <br>
-Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes with the speed of no-code. Ready for real-world use cases across Support, Operations and more, with Visual Automations Designer, Multi-agents, humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more!
+Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated mulit-channel workflows in minutes with the speed of no-code. Ready for real-world use cases across Support, Operations and more, with Visual Automations Designer, Multi-agents, multi-channel (WhatsApp, websites, Facebook, Email and more), humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more.
 
 <br>
 <br>
@@ -25,13 +25,6 @@ You can build no-code Conversational Agents
 <br>
 Or no-code Agentic-AI Automations
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/2605b38c-7742-4ab9-bd57-4362d8c51a4e" />
-
-
-
-# Tiledesk: open-source Agentic-AI Operating System
-
-Tiledesk empowers you to create intelligent AI agents automating conversations and workflows seamlessly across multiple channels, including WhatsApp, websites, Facebook, Email and more.
-With our open-core platform licensed under MIT, you can build, customize, and self-host LLM AI solutions tailored to your specific needs.
 
 <img width="2440" height="1358" alt="image" src="https://github.com/user-attachments/assets/68e776cc-af84-4018-a316-d8f3da95f0a6" />
 
