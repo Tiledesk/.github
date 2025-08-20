@@ -16,7 +16,6 @@ Tiledesk is the ultimate open-source platform to automate your company with Agen
 <br>
 Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated mulit-channel workflows in minutes with the speed of no-code. Ready for real-world use cases across Support, Operations and more, with Visual Automations Designer, multi-agent, multi-channel, humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more.
 
-## Design Conversational Apps or LLM Automations
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/f1235331-bf1f-4110-af73-cd9af00bb3db" />
 
 Use Whatsapp, email, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
