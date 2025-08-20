@@ -18,7 +18,7 @@ Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabl
 
 <br>
 <br>
-No-code Conversational Agents Or Agentic Automations
+No-code Conversational Agents and Agentic Automations
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/f1235331-bf1f-4110-af73-cd9af00bb3db" />
 
 Use Whatsapp, email, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
