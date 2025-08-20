@@ -35,7 +35,7 @@ Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Opera
 Tiledesk helps you:  
 - **Automate workflows**: From customer service to lead generation and internal processes.
 - **Information retrival**: With our native RAG (aka Knowledge Base) we offer a great solution based on [Qdrant](https://qdrant.tech/) vector store and multiple LLMs to build Responders for your product documents, Shopping assistants, Replying on your website contents and more. Our RAG supports semantic and keyword based search ([Hybrid search](https://tiledesk.com/blog/tiledesk-hybrid-search-rag-architecture/)), re-ranking, multiple-LLMs and more with an accessible UI/UX
-- **Keep control**: Self-host and tailor the solution to fit your exact requirements.  
+- **Keep control**: Self-host and tailor the solution to fit your exact requirements with our fully scalable multi-tenant architecture.  
 
 Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to enhance its product portfolio and by a **leading UC provider** to reduce development costs by 30% while improving upselling by 20%. These partnerships underscore Tiledesk’s ability to drive efficiency and deliver exceptional results. 
 
