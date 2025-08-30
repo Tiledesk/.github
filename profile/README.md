@@ -75,6 +75,9 @@ Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your k
 Design your conversation flow once with our Multichannel Support feature and let Tiledesk optimize it for different channels like WhatsApp, Facebook, Telegram, and Email.
 
 ### Multi-tenant - One installation, multiple projects
+<p align="center">
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/b6cb4749-84e2-47dc-954c-9f301be16b32" />
+</p>
 
 Tiledesk installation is natively multi-tenant. You can manage multiple tenants (projects) with a single Tiledesk installation. Each project is a sandbox collecting and securely isolating all the necessary resources as project's teammaates with different roles, multiple AI Agents and RAGs, queues etc.
 
