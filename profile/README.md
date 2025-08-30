@@ -56,7 +56,7 @@ Our cutting-edge Design Studio allows you to design your ideal conversation flow
 
 Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you can use cloud models as well as open-source models.
 <p align="center">
-  <img width="701" height="459" alt="image" src="https://github.com/user-attachments/assets/482cb3c1-4465-4f5f-a228-a4d0436f8a32" />
+  <img height="400" alt="image" src="https://github.com/user-attachments/assets/0a9a7387-8dec-4fb4-b976-65b7a8ad2e17" />
 </p>
 
 ### LLM Agnostic Knowledge Base (RAG)
