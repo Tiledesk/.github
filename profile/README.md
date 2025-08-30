@@ -31,6 +31,11 @@ Tiledesk is an open source project, made with passion ❤️‍🔥 in Italy �
 ## Why Tiledesk?
 
 Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Operating System** for creating scalable, customizable Agentic-AI applications.
+
+<p align="center">
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/5d690371-e83c-4bef-833f-844bf70e0a46" />
+</p>
+
 Tiledesk helps you:  
 - **Automate workflows**: From customer service to lead generation and internal processes.
 - **Information retrival**: With our native RAG (aka Knowledge Base) we offer a great solution based on [Qdrant](https://qdrant.tech/) vector store and multiple LLMs to build Responders for your product documents, Shopping assistants, Replying on your website contents and more. Our RAG supports semantic and keyword based search ([Hybrid search](https://tiledesk.com/blog/tiledesk-hybrid-search-rag-architecture/)), re-ranking, multiple-LLMs and more with an accessible UI/UX
