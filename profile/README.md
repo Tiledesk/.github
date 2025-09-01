@@ -49,7 +49,7 @@ Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to
 
 Our cutting-edge Design Studio allows you to design your ideal conversation flow and implement it in minutes, hassle-free.
 
-<img width="1431" height="791" alt="image" src="https://github.com/user-attachments/assets/380019e0-9baa-4f6f-9b9f-9f2edac2ce62" />
+<img width="1258" height="691" alt="image" src="https://github.com/user-attachments/assets/ec5c17ff-3fd2-4c16-a0b7-339cde72df1e" />
 
 ### OpenAI, Claude, and open-source LLMs (Ollama/vLLM) Integration
 
