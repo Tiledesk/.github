@@ -33,7 +33,7 @@ Tiledesk is an open source project, made with passion ❤️‍🔥 in Italy �
 Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Operating System** for creating scalable, customizable Agentic-AI applications.
 
 <p align="center">
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/5d690371-e83c-4bef-833f-844bf70e0a46" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/25e745fc-dd0c-466e-b269-99338ea96980" />
 </p>
 
 Tiledesk helps you:  
