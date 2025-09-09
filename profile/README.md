@@ -14,7 +14,8 @@
 Tiledesk is the ultimate open-source platform to automate your company with Agentic-AI applications.
 <br>
 <br>
-Tiledesk offers all you need to build your enterprise Agentic-AI solutions enabling scalable and fully automated mulit-channel workflows in minutes with the speed of no-code. Ready for real-world use cases across Support, Operations and more, with Visual Automations Designer, multi-agent, multi-channel, humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more.
+Tiledesk offers all you need to build your in-house, enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes with the speed of no-code.
+Ready for real-world use cases across Support, Information Retrieval, Operations and more, with Visual Designer for your automations, multi-agents, multi-channels, humans in the loop (HITL), Model Context Protocol (MCP) support, native RAGs, APIs and more.
 
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/f1235331-bf1f-4110-af73-cd9af00bb3db" />
 
