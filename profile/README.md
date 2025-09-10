@@ -39,7 +39,7 @@ Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Opera
 
 Tiledesk helps you:  
 - **Automate workflows**: From customer service to lead generation and internal processes.
-- **Information retrival**: With our native RAG (aka Knowledge Base) we offer a great solution based on [Qdrant](https://qdrant.tech/) vector store and multiple LLMs to build Responders for your product documents, Shopping assistants, Replying on your website contents and more. Our RAG supports semantic and keyword based search ([Hybrid search](https://tiledesk.com/blog/tiledesk-hybrid-search-rag-architecture/)), re-ranking, multiple-LLMs and more with an accessible UI/UX
+- **Information retrival**: With our native RAG (aka Knowledge Base) we offer a great solution based on [Qdrant](https://qdrant.tech/) vector store and multiple LLMs to build Responders for your product documents, Shopping assistants, Replying on your website contents and more. Our RAG supports semantic and keyword based search ([Hybrid search](https://tiledesk.com/blog/tiledesk-hybrid-search-rag-architecture/)), re-ranking, multiple-LLMs and more with an accessible UI/UX. And [developer APIs](https://developer.tiledesk.com/apis/rest-api/knowledge-bases).
 - **Keep control**: Self-host and tailor the solution to fit your exact requirements with our fully scalable _multi-tenant_ architecture.  
 
 Our platform has already been trusted by a **top NYSE-listed CPaaS provider** to enhance its product portfolio and by a **leading UC provider** to reduce development costs by 30% while improving upselling by 20%. These partnerships underscore Tiledesk’s ability to drive efficiency and deliver exceptional results. 
@@ -61,7 +61,7 @@ Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you c
 
 ### LLM Agnostic Knowledge Base (RAG)
 
-Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your knowledge base. This allows your Agents to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation.
+Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your knowledge base. This allows your Agents to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation. With [developer APIs](https://developer.tiledesk.com/apis/rest-api/knowledge-bases) support.
 
 <img width="1579" height="901" alt="image" src="https://github.com/user-attachments/assets/555d63a4-2b32-4f88-9049-230456a9aa8c" />
 
