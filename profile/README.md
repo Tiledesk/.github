@@ -31,7 +31,13 @@ Tiledesk is an open source project, made with passion ❤️‍🔥 in Italy �
 
 ## Why Tiledesk?
 
-Tiledesk isn’t just another AI tool. It’s your **open-core Angentic-AI Operating System** for creating scalable, customizable Agentic-AI applications.
+Tiledesk isn’t just another AI tool. It’s your open-core **Agentic-AI Operating System** for building scalable, customizable AI applications.
+
+At its core, Tiledesk is a full-stack AI architecture designed to scale. It’s built on market-proven open-source technologies: MongoDB for data storage, RabbitMQ/MQTT as the messaging engine, Redis for caching and synchronization, Qdrant for vector storage, support for vLLM/Ollama for your open source LLMs. Ready to be deployed on your Kubernates cluster.
+
+With Tiledesk, you can deploy your Company's private AI infrastructure directly in your data center—completely disconnected from the internet. Out of the box, it comes packed with pre-built services such as no-code automation workflows, native RAGs for Information Retrieval, self-learning, Human-in-the-Loop, extension points, APIs, and much more.
+
+You can also choose hybrid deployments—connecting to your preferred cloud LLMs when needed, swapping Qdrant with another vector engine, and more—giving you maximum flexibility.
 
 <p align="center">
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/25e745fc-dd0c-466e-b269-99338ea96980" />
