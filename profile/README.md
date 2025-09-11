@@ -100,8 +100,6 @@ You can easily try out Tiledesk by installing it with our Docker compose deploym
 
 - Looking for a more scalable architecture? Check out our guide to [Install Tiledesk with Kubernetes and Helm](https://github.com/Tiledesk/tiledesk/blob/master/helm/README.md) 🚀
 
-- Additionally, consider [self-hosting Tiledesk in just a few clicks using Scoutflo](https://deploy.scoutflo.com/workspace/deploy/tiledesk).
-
 
 # Public Roadmap
 Check our [Public Roadmap](https://feedback.tiledesk.com/roadmap) to see activities In Progress, Planned and Under Review.
