@@ -40,7 +40,7 @@ With Tiledesk, you can deploy your Company's private AI infrastructure directly 
 You can also choose hybrid deployments—connecting to your preferred cloud LLMs when needed, swapping Qdrant with another vector engine, and more—giving you maximum flexibility.
 
 <p align="center">
-<img height="400" alt="architecture" src="https://github.com/user-attachments/assets/06c0924e-7e72-4f23-9a20-7c18ef500a4f" />
+<img height="500" alt="architecture" src="https://github.com/user-attachments/assets/06c0924e-7e72-4f23-9a20-7c18ef500a4f" />
 </p>
 
 Tiledesk helps you:  
