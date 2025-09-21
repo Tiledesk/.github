@@ -65,9 +65,9 @@ Use Prompt-chaining to solve your Agentic tasks. Tiledesk is LLM-agnostic, you c
   <img height="400" alt="image" src="https://github.com/user-attachments/assets/0a9a7387-8dec-4fb4-b976-65b7a8ad2e17" />
 </p>
 
-### LLM Agnostic Knowledge Base (RAG)
+### LLM Agnostic Agentic RAG
 
-Connect your Tiledesk Agents to ChatGPT (Claude, LLAMA, Mistral etc.) and your knowledge base. This allows your Agents to find answers to customers’ questions in your knowledge base and respond using generative AI in a human-like conversation. With [developer APIs](https://developer.tiledesk.com/apis/rest-api/knowledge-bases) support.
+Connect your Tiledesk Flows to your knowledge bases powered by Claude, OpenAI, Gemini, LLAMA, Mistral and more LLMs. Combine the power of our RAG engine with the automation flow to create your [Agentic RAGs](https://guide.tiledesk.com/ai-chatbots-and-automation/knowledge-base/knowledge-base-overview#agentic-rag). With [developer APIs](https://developer.tiledesk.com/apis/rest-api/knowledge-bases) support.
 
 <img width="1579" height="901" alt="image" src="https://github.com/user-attachments/assets/555d63a4-2b32-4f88-9049-230456a9aa8c" />
 
