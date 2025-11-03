@@ -17,7 +17,7 @@ Tiledesk is the ultimate open-source platform to automate your company with Agen
 Tiledesk offers all you need to build your in-house, enterprise Agentic-AI solutions enabling scalable and fully automated workflows in minutes with the speed of no-code.
 Ready for real-world use cases across Support, Information Retrieval, Operations and more, with Visual Designer for your automations, multi-agents, multi-channel, Humans In The Loop (HITL), Model Context Protocol (MCP) support, [native RAGs](https://guide.tiledesk.com/ai-chatbots-and-automation/knowledge-base/knowledge-base-overview), [APIs](https://developer.tiledesk.com/) and more.
 
-<img height="700" alt="image" src="https://github.com/user-attachments/assets/f1235331-bf1f-4110-af73-cd9af00bb3db" />
+<img width="700" alt="MCP tools" src="https://github.com/user-attachments/assets/719ac0e5-5a73-4f7b-9f49-b5a932f0573a" />
 
 Use Whatsapp, email, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
 
