@@ -18,6 +18,10 @@ Tiledesk offers all you need to build your in-house, enterprise Agentic-AI solut
 Ready for real-world use cases across Support, Information Retrieval, Operations and more, with Visual Designer for your automations, multi-agents, multi-channel, Humans In The Loop (HITL), Model Context Protocol (MCP) support, [native RAGs](https://guide.tiledesk.com/ai-chatbots-and-automation/knowledge-base/knowledge-base-overview), [APIs](https://developer.tiledesk.com/) and more.
 
 <p align="center">
+<img width="900" alt="Agent Designer" src="https://github.com/user-attachments/assets/e10aa865-7580-417b-9922-eee29511d7c7" />
+</p>
+
+<p align="center">
 <img width="900" alt="MCP tools" src="https://github.com/user-attachments/assets/719ac0e5-5a73-4f7b-9f49-b5a932f0573a" />
 </p>
 
