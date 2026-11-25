@@ -21,11 +21,7 @@ Ready for real-world use cases across Support, Information Retrieval, Operations
 <img width="900" alt="Agent Designer" src="https://github.com/user-attachments/assets/e10aa865-7580-417b-9922-eee29511d7c7" />
 </p>
 
-<p align="center">
-<img width="900" alt="MCP tools" src="https://github.com/user-attachments/assets/719ac0e5-5a73-4f7b-9f49-b5a932f0573a" />
-</p>
-
-Use Whatsapp, email, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
+Use Whatsapp, email, SMS, voice, or our web widget to get accurate answers from your data, create tasks, and complete workflows.
 
 The Open-source version of Tiledesk includes all you need to run your open-source LLM models and RAGs safe into your own data center or private cloud. 
 
