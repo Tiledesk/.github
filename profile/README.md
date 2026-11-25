@@ -18,7 +18,7 @@ Tiledesk offers all you need to build your in-house, enterprise Agentic-AI solut
 Ready for real-world use cases across Support, Information Retrieval, Operations and more, with Visual Designer for your automations, multi-agents, multi-channel, Humans In The Loop (HITL), Model Context Protocol (MCP) support, [native RAGs](https://guide.tiledesk.com/ai-chatbots-and-automation/knowledge-base/knowledge-base-overview), [APIs](https://developer.tiledesk.com/) and more.
 
 <p align="center">
-<img width="900" alt="Agent Designer" src="https://github.com/user-attachments/assets/e10aa865-7580-417b-9922-eee29511d7c7" />
+<img width="1100" alt="Agent Designer" src="https://github.com/user-attachments/assets/e10aa865-7580-417b-9922-eee29511d7c7" />
 </p>
 
 Use Whatsapp, email, SMS, voice, or our web widget to get accurate answers from your data, create tasks, and complete workflows.
